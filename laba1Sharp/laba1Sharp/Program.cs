@@ -6,7 +6,7 @@ namespace laba1Sharp
     {
         static void Main(string[] args)
         {
-            //1 пошук найбільшого
+            //1 пошук найбільшого!!!
             /*
             int a, b, c;
             string str;
