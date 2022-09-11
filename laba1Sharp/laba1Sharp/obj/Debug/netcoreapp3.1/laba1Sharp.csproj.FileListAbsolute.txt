@@ -1,0 +1,14 @@
+C:\Users\prank\source\repos\laba1Sharp\laba1Sharp\bin\Debug\netcoreapp3.1\laba1Sharp.exe
+C:\Users\prank\source\repos\laba1Sharp\laba1Sharp\bin\Debug\netcoreapp3.1\laba1Sharp.deps.json
+C:\Users\prank\source\repos\laba1Sharp\laba1Sharp\bin\Debug\netcoreapp3.1\laba1Sharp.runtimeconfig.json
+C:\Users\prank\source\repos\laba1Sharp\laba1Sharp\bin\Debug\netcoreapp3.1\laba1Sharp.runtimeconfig.dev.json
+C:\Users\prank\source\repos\laba1Sharp\laba1Sharp\bin\Debug\netcoreapp3.1\laba1Sharp.dll
+C:\Users\prank\source\repos\laba1Sharp\laba1Sharp\bin\Debug\netcoreapp3.1\laba1Sharp.pdb
+C:\Users\prank\source\repos\laba1Sharp\laba1Sharp\obj\Debug\netcoreapp3.1\laba1Sharp.csproj.AssemblyReference.cache
+C:\Users\prank\source\repos\laba1Sharp\laba1Sharp\obj\Debug\netcoreapp3.1\laba1Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prank\source\repos\laba1Sharp\laba1Sharp\obj\Debug\netcoreapp3.1\laba1Sharp.AssemblyInfoInputs.cache
+C:\Users\prank\source\repos\laba1Sharp\laba1Sharp\obj\Debug\netcoreapp3.1\laba1Sharp.AssemblyInfo.cs
+C:\Users\prank\source\repos\laba1Sharp\laba1Sharp\obj\Debug\netcoreapp3.1\laba1Sharp.csproj.CoreCompileInputs.cache
+C:\Users\prank\source\repos\laba1Sharp\laba1Sharp\obj\Debug\netcoreapp3.1\laba1Sharp.dll
+C:\Users\prank\source\repos\laba1Sharp\laba1Sharp\obj\Debug\netcoreapp3.1\laba1Sharp.pdb
+C:\Users\prank\source\repos\laba1Sharp\laba1Sharp\obj\Debug\netcoreapp3.1\laba1Sharp.genruntimeconfig.cache
