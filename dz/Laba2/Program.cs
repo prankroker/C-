@@ -46,13 +46,20 @@ namespace Laba1_140922
             nk = int.Parse(str);
             res = 0;
             b = 0;
-            for (int i = nn; i <= nk; i++)
+            if (0 <= nn && nn <= nk)
             {
-                k = i;
-                b = (Math.Pow(k, 2) - Math.Pow((-1), k + 1) * 2 * k - 1) / (Math.Pow(k, 2) + 8);
-                res += b;
+                for (int i = nn; i <= nk; i++)
+                {
+                    k = i;
+                    b = (Math.Pow(k, 2) - Math.Pow((-1), k + 1) * 2 * k - 1) / (Math.Pow(k, 2) + 8);
+                    res += b;
+                }
+                Console.WriteLine(res);
             }
-            Console.WriteLine(res);
+            else
+            {
+                Console.WriteLine("помилка");
+            }
         }
     }
 }

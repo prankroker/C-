@@ -12,7 +12,7 @@ namespace Laba3
             str = Console.ReadLine();
             a = Double.Parse(str);
             res = a % 2;
-            if (res == 0)
+            if (res == 0 &&  a < 1000 && a > 99)
             {
                 Console.WriteLine("True");
             }
